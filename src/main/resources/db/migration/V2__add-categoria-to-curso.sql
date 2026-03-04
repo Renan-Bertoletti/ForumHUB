@@ -1,0 +1,2 @@
+ALTER TABLE curso
+ADD COLUMN categoria VARCHAR(100) NOT NULL;
