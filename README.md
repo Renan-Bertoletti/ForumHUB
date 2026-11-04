@@ -44,7 +44,7 @@ spring.datasource.password=sua_senha
 spring.jpa.hibernate.ddl-auto=validate
 spring.flyway.enabled=true
 
-api.security.token.secret=123456
+api.security.token.secret=sua_chave_secreta
 
 
 
